@@ -1,4 +1,4 @@
-# intrestingstuff
+# Interesting stuff
 
 > Interesting stuff I need to checkout
 
