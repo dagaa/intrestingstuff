@@ -5,6 +5,8 @@
 
 ### February 13, 2017
 
+
+- [Patreon] (https://www.patreon.com/)
 - [How to build a robot that “sees” with $100 and TensorFlow] (https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow)
 - [Build a super fast deep learning machine for under $1,000](https://www.oreilly.com/learning/build-a-super-fast-deep-learning-machine-for-under-1000)
 
