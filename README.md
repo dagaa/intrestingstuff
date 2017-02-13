@@ -4,7 +4,11 @@
 
 
 ### February 13, 2017
--Build a super fast deep learning machine for under $1,000(https://www.oreilly.com/learning/build-a-super-fast-deep-learning-machine-for-under-1000)
+
+- [Build a super fast deep learning machine for under $1,000](How to build a robot that “sees” with $100 and TensorFlow)
+- [Build a super fast deep learning machine for under $1,000](https://www.oreilly.com/learning/build-a-super-fast-deep-learning-machine-for-under-1000)
+
+
 
 ### February 9, 2017
 - [CodePen Radio](https://blog.codepen.io/radio/) 
