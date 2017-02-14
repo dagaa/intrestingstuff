@@ -3,8 +3,14 @@
 > Interesting stuff I need to checkout
 
 
-### February 13, 2017
 
+### February 14, 2017
+
+- [10 Best Google Adsense Alternatives (2017)] (http://stream-seo.com/best-google-adsense-alternatives/)
+
+
+
+### February 13, 2017
 
 - [Patreon] (https://www.patreon.com/)
 - [How to build a robot that “sees” with $100 and TensorFlow] (https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow)
